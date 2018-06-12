@@ -1,0 +1,1 @@
+java -cp D:\Code\java-advanced-2018\lib\*;D:\Code\java-advanced-2018\artifacts\ImplementorTest.jar;D:\Code\java-advanced-2018\out\production\java-advanced-2018 info.kgeorgiy.java.advanced.implementor.Tester interface ru.ifmo.rain.tereshchuk.implementor.Implementor

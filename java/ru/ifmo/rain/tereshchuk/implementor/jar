@@ -1,0 +1,4 @@
+javac -cp D:\Code\java-advanced-2018\artifacts\ImplementorTest.jar D:\Code\java-advanced-2018\java\ru\ifmo\rain\tereshchuk\implementor\* -d .
+echo "Class-Path: D:\Code\java-advanced-2018\artifacts\ImplementorTest.jar" > classpath
+jar emcf ru.ifmo.rain.tereshchuk.implementor.Main classpath Implementor.jar ru\ifmo\rain\tereshchuk\implementor\*
+rm -r ru classpath

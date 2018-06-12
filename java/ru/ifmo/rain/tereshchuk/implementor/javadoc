@@ -1,0 +1,1 @@
+javadoc -private -sourcepath D:\Code\java-advanced-2018\java -d D:\Code\java-advanced-2018\javadoc ru.ifmo.rain.tereshchuk.implementor
